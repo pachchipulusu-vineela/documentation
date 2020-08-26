@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo"
+command = "hugooo"
 
 [context.production.environment]
   HUGO_VERSION = "0.55.6"
@@ -28,3 +28,4 @@ HUGO_VERSION = "0.55.6"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
